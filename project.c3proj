@@ -92,6 +92,16 @@
 					"name": "42847__freqman__psycho-scream-1.webm",
 					"type": "audio/webm; codecs=opus",
 					"sid": 683081424628959
+				},
+				{
+					"name": "Children Yay  Sound Effect.mp3",
+					"type": "audio/mpeg",
+					"sid": 394264971696646
+				},
+				{
+					"name": "09-peach-beach-daisy-cruiser.mp3",
+					"type": "audio/mpeg",
+					"sid": 256069074645263
 				}
 			],
 			"subfolders": []

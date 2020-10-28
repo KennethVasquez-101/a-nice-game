@@ -25,6 +25,25 @@
 					"id": "destroy",
 					"objectClass": "Wrong_Cup",
 					"sid": 654710343585379
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 700980828639879,
+					"parameters": {
+						"audio-file": "09-peach-beach-daisy-cruiser",
+						"loop": "not-looping",
+						"volume": "0",
+						"tag-optional": "\"\""
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration",
+					"sid": 729424170492710,
+					"parameters": {
+						"opacity": "100"
+					}
 				}
 			],
 			"sid": 375309757038791
