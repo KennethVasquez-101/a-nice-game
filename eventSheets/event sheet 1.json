@@ -43,7 +43,27 @@
 					}
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 967024117490282,
+					"parameters": {
+						"layout": "LoseLayout"
+					}
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 890532693999338,
+					"parameters": {
+						"audio-file": "42847__freqman__psycho-scream-1",
+						"loop": "not-looping",
+						"volume": "0",
+						"tag-optional": "\"\""
+					}
+				}
+			],
 			"sid": 395810465401237
 		}
 	],

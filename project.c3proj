@@ -31,6 +31,14 @@
 			"bundled": false
 		},
 		{
+			"type": "plugin",
+			"id": "Audio",
+			"name": "Audio",
+			"author": "Scirra",
+			"version": "r218",
+			"bundled": false
+		},
+		{
 			"type": "behavior",
 			"id": "Sin",
 			"name": "Sine",
@@ -49,7 +57,8 @@
 			"FindTheBanana",
 			"Controller",
 			"bloody_mary",
-			"celebration"
+			"celebration",
+			"Audio"
 		],
 		"subfolders": []
 	},
@@ -61,7 +70,8 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1"
+			"Layout 1",
+			"LoseLayout"
 		],
 		"subfolders": []
 	},
