@@ -1,5 +1,51 @@
 {
 	"name": "Event sheet 1",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Controller",
+					"sid": 559563078698333,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Right_Cup"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "destroy",
+					"objectClass": "Right_Cup",
+					"sid": 272110186003884
+				},
+				{
+					"id": "destroy",
+					"objectClass": "Wrong_Cup",
+					"sid": 654710343585379
+				}
+			],
+			"sid": 375309757038791
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Controller",
+					"sid": 636913826118242,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Wrong_Cup"
+					}
+				}
+			],
+			"actions": [],
+			"sid": 395810465401237
+		}
+	],
 	"sid": 215066707167941
 }

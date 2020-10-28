@@ -23,6 +23,14 @@
 			"bundled": false
 		},
 		{
+			"type": "plugin",
+			"id": "Particles",
+			"name": "Particles",
+			"author": "Scirra",
+			"version": "r218",
+			"bundled": false
+		},
+		{
 			"type": "behavior",
 			"id": "Sin",
 			"name": "Sine",
@@ -40,7 +48,8 @@
 			"Right_Cup",
 			"FindTheBanana",
 			"Controller",
-			"bloody_mary"
+			"bloody_mary",
+			"celebration"
 		],
 		"subfolders": []
 	},
@@ -68,7 +77,13 @@
 			"subfolders": []
 		},
 		"sound": {
-			"items": [],
+			"items": [
+				{
+					"name": "42847__freqman__psycho-scream-1.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 683081424628959
+				}
+			],
 			"subfolders": []
 		},
 		"music": {
