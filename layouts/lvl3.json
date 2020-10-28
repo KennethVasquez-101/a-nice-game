@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
 <<<<<<< HEAD:layouts/game.json
 	"name": "Game",
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+	"name": "LVL2",
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 =======
 	"name": "LVL3",
 >>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
@@ -18,14 +23,27 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
 					"uid": 29,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 16,
+=======
+					"uid": 29,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": 428,
 						"y": 241,
+<<<<<<< HEAD
 						"width": 855,
 						"height": 480,
+=======
+						"width": 851,
+						"height": 478,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
@@ -39,7 +57,15 @@
 					}
 				}
 			],
+<<<<<<< HEAD
 			"sid": 372787186928979,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+			"sid": 822224602118682,
+=======
+			"sid": 372787186928979,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -76,12 +102,27 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 17,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 249.1204150993196,
+						"y": 311.8555503493619,
+=======
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"uid": 30,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": 619.12041509932,
 						"y": 309.1282776220891,
+<<<<<<< HEAD
+=======
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 						"width": 75,
 						"height": 75,
 						"originX": 0.6532846715328468,
@@ -105,7 +146,15 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
 					"uid": 31,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 18,
+=======
+					"uid": 31,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -134,12 +183,27 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 19,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 237.09090909090884,
+						"y": 254.63636363636363,
+=======
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"uid": 32,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": 607.0909090909092,
 						"y": 251.90909090909082,
+<<<<<<< HEAD
+=======
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 						"width": 130,
 						"height": 130,
 						"originX": 0.5002490245165462,
@@ -163,7 +227,15 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
 					"uid": 33,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 20,
+=======
+					"uid": 33,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {
 						"Sine": {
@@ -207,7 +279,15 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
 					"uid": 34,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 21,
+=======
+					"uid": 34,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -236,12 +316,27 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 22,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 620.4545454545455,
+						"y": 248.1818181818182,
+=======
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"uid": 35,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
 						"x": 254.99999999999972,
 						"y": 252.72727272727275,
+<<<<<<< HEAD
+=======
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 						"width": 130,
 						"height": 130,
 						"originX": 0.5002490245165462,
@@ -257,7 +352,15 @@
 					}
 				}
 			],
+<<<<<<< HEAD
 			"sid": 106671180923000,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+			"sid": 196843402878508,
+=======
+			"sid": 106671180923000,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -310,7 +413,15 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
+<<<<<<< HEAD
 					"uid": 36,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 23,
+=======
+					"uid": 36,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -355,7 +466,15 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
+<<<<<<< HEAD
 					"uid": 37,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 24,
+=======
+					"uid": 37,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -400,7 +519,15 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
+<<<<<<< HEAD
 					"uid": 38,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 25,
+=======
+					"uid": 38,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -445,7 +572,15 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
+<<<<<<< HEAD
 					"uid": 39,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+					"uid": 26,
+=======
+					"uid": 39,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -466,7 +601,15 @@
 					}
 				}
 			],
+<<<<<<< HEAD
 			"sid": 647413860188929,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+			"sid": 507588596956656,
+=======
+			"sid": 647413860188929,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -491,7 +634,15 @@
 			"global": false
 		}
 	],
+<<<<<<< HEAD
 	"sid": 654557429779654,
+=======
+<<<<<<< HEAD:layouts/lvl2.json
+	"sid": 882136296542414,
+=======
+	"sid": 654557429779654,
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818:layouts/lvl3.json
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
