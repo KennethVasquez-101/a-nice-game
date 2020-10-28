@@ -51,12 +51,17 @@
 					}
 				},
 				{
-					"id": "go-to-layout",
+					"id": "go-to-layout-by-name",
 					"objectClass": "System",
-					"sid": 276555019422202,
+					"sid": 601831704215045,
 					"parameters": {
-						"layout": "LVL2"
+						"layout": "\"Lvl\"&choose(1,2,3)"
 					}
+				},
+				{
+					"id": "stop-all",
+					"objectClass": "Audio",
+					"sid": 445978452096487
 				}
 			],
 			"sid": 966445865895495
@@ -77,11 +82,11 @@
 			],
 			"actions": [
 				{
-					"id": "go-to-layout",
+					"id": "go-to-layout-by-name",
 					"objectClass": "System",
-					"sid": 840914466840017,
+					"sid": 979489316879045,
 					"parameters": {
-						"layout": "LoseLayout"
+						"layout": "\"LoseLayout\"&choose(1,2,3)"
 					}
 				},
 				{
@@ -122,6 +127,17 @@
 					"sid": 641049960724448,
 					"parameters": {
 						"opacity": "0"
+					}
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 250166804696605,
+					"parameters": {
+						"audio-file": "09-peach-beach-daisy-cruiser",
+						"loop": "looping",
+						"volume": "-10",
+						"tag-optional": "\"\""
 					}
 				}
 			],

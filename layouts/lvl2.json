@@ -460,6 +460,50 @@
 						"angle": 4.721299503554197,
 						"zElevation": 0
 					}
+				},
+				{
+					"type": "found",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 40,
+					"instanceVariables": {},
+					"behaviors": {
+						"Sine": {
+							"properties": {
+								"movement": "vertical",
+								"wave": "sine",
+								"period": 5,
+								"period-random": 0,
+								"period-offset": 0,
+								"period-offset-random": 0,
+								"magnitude": 10,
+								"magnitude-random": 0,
+								"enabled": true,
+								"live-preview": false
+							}
+						}
+					},
+					"world": {
+						"x": 434.545454545456,
+						"y": 386.3636363636376,
+						"width": 520.3936513332228,
+						"height": 48.387360294278736,
+						"originX": 0.5021857923497268,
+						"originY": 0.5362318840579711,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
 				}
 			],
 			"sid": 507588596956656,

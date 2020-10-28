@@ -69,7 +69,9 @@
 			"Audio",
 			"celebration2",
 			"found",
-			"score"
+			"score",
+			"horrorPicture2",
+			"Sprite"
 		],
 		"subfolders": []
 	},
@@ -82,9 +84,11 @@
 	"layouts": {
 		"items": [
 			"LVL1",
-			"LoseLayout",
+			"LoseLayout1",
 			"LVL2",
-			"LVL3"
+			"LVL3",
+			"LoseLayout2",
+			"LoseLayout3"
 		],
 		"subfolders": []
 	},
