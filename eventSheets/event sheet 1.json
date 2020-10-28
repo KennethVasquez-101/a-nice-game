@@ -27,20 +27,17 @@
 					"sid": 654710343585379
 				},
 				{
-					"id": "play",
-					"objectClass": "Audio",
-					"sid": 700980828639879,
-					"parameters": {
-						"audio-file": "09-peach-beach-daisy-cruiser",
-						"loop": "not-looping",
-						"volume": "0",
-						"tag-optional": "\"\""
-					}
-				},
-				{
 					"id": "set-opacity",
 					"objectClass": "celebration",
 					"sid": 729424170492710,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-init-opacity",
+					"objectClass": "celebration2",
+					"sid": 292809486612831,
 					"parameters": {
 						"opacity": "100"
 					}
@@ -84,6 +81,46 @@
 				}
 			],
 			"sid": 395810465401237
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 799850314661854
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration",
+					"sid": 854589113176040,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 901449101029401,
+					"parameters": {
+						"audio-file": "09-peach-beach-daisy-cruiser",
+						"loop": "not-looping",
+						"volume": "-10",
+						"tag-optional": "\"\""
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration2",
+					"sid": 902075962003814,
+					"parameters": {
+						"opacity": "0"
+					}
+				}
+			],
+			"sid": 289339436011265
 		}
 	],
 	"sid": 215066707167941
