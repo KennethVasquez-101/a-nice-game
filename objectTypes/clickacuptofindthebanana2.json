@@ -1,0 +1,49 @@
+{
+	"name": "ClickACupToFindTheBanana2",
+	"plugin-id": "Sprite",
+	"sid": 261396897213148,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1228,
+						"height": 70,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4220530,
+						"collisionPoly": {
+							"points": [
+								0.0008143322475570033,
+								0,
+								0.999185667752443,
+								0,
+								0.999185667752443,
+								1,
+								0.0008143322475570033,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 477406171765865,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

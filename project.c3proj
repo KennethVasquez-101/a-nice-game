@@ -39,6 +39,14 @@
 			"bundled": false
 		},
 		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Text",
+			"author": "Scirra",
+			"version": "r218",
+			"bundled": false
+		},
+		{
 			"type": "behavior",
 			"id": "Sin",
 			"name": "Sine",
@@ -58,7 +66,21 @@
 			"Controller",
 			"bloody_mary",
 			"celebration",
-			"Audio"
+			"Audio",
+<<<<<<< HEAD
+			"press",
+			"Instructions",
+			"Instructions2",
+			"ClickACupToFindTheBanana",
+			"ClickACupToFindTheBanana2",
+			"1of3",
+			"Thebananawillbeinrandomcups",
+			"Thebananawillbeinrandomcups2"
+=======
+			"celebration2",
+			"found",
+			"score"
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 		],
 		"subfolders": []
 	},
@@ -70,14 +92,24 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1",
-			"LoseLayout"
+<<<<<<< HEAD
+			"Game",
+			"LoseLayout",
+			"Title Screen",
+			"Instructions"
+=======
+			"LVL1",
+			"LoseLayout",
+			"LVL2",
+			"LVL3"
+>>>>>>> 4d8571335404e7e011270e25f7090d425bd8a818
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Event sheet 1"
+			"Event sheet 1",
+			"Event sheet 2"
 		],
 		"subfolders": []
 	},

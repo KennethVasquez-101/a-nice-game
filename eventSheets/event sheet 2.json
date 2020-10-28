@@ -1,0 +1,132 @@
+{
+	"name": "Event sheet 2",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Controller",
+					"sid": 885564360041423,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Right_Cup"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "destroy",
+					"objectClass": "Right_Cup",
+					"sid": 856102530731971
+				},
+				{
+					"id": "destroy",
+					"objectClass": "Wrong_Cup",
+					"sid": 209778056956986
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration",
+					"sid": 276714072109815,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration2",
+					"sid": 454275311931135,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 866989915968391,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 276555019422202,
+					"parameters": {
+						"layout": "LVL2"
+					}
+				}
+			],
+			"sid": 966445865895495
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Controller",
+					"sid": 813220573671922,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Wrong_Cup"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 840914466840017,
+					"parameters": {
+						"layout": "LoseLayout"
+					}
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 244760421146883,
+					"parameters": {
+						"audio-file": "42847__freqman__psycho-scream-1",
+						"loop": "looping",
+						"volume": "0",
+						"tag-optional": "\"\""
+					}
+				}
+			],
+			"sid": 324334808714436
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 778972239460282
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration",
+					"sid": 822747748954089,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration2",
+					"sid": 641049960724448,
+					"parameters": {
+						"opacity": "0"
+					}
+				}
+			],
+			"sid": 448878480208853
+		}
+	],
+	"sid": 283831300730163
+}

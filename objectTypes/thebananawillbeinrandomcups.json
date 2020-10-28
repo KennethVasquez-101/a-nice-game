@@ -1,47 +1,41 @@
 {
-	"name": "FindTheBanana",
+	"name": "Thebananawillbeinrandomcups",
 	"plugin-id": "Sprite",
-	"sid": 434582775288439,
+	"sid": 579491122321552,
 	"isGlobal": false,
 	"instanceVariables": [],
-	"behaviorTypes": [
-		{
-			"behaviorId": "Sin",
-			"name": "Sine",
-			"sid": 816448289011848
-		}
-	],
+	"behaviorTypes": [],
 	"effectTypes": [],
 	"animations": {
 		"items": [
 			{
 				"frames": [
 					{
-						"width": 653,
+						"width": 1327,
 						"height": 65,
-						"originX": 0.48468606431852984,
+						"originX": 0.7471740768651093,
 						"originY": 0.5230769230769231,
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 2481256,
+						"imageSpriteId": 4160386,
 						"collisionPoly": {
 							"points": [
-								0.0015313935681470138,
-								0.015384615384615385,
-								0.9831546707503829,
-								0.015384615384615385,
-								0.9831546707503829,
-								0.9846153846153847,
-								0.0015313935681470138,
-								0.9846153846153847
+								0.24717407686510928,
+								0,
+								1,
+								0,
+								1,
+								1,
+								0.24717407686510928,
+								1
 							]
 						},
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 338342345523152,
+				"sid": 570916783855898,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

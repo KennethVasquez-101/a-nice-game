@@ -2,6 +2,16 @@
 	"name": "Event sheet 1",
 	"events": [
 		{
+			"eventType": "variable",
+			"name": "world_points",
+			"type": "number",
+			"initialValue": "0",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 863230320054500
+		},
+		{
 			"eventType": "block",
 			"conditions": [
 				{
@@ -27,22 +37,66 @@
 					"sid": 654710343585379
 				},
 				{
-					"id": "play",
-					"objectClass": "Audio",
-					"sid": 700980828639879,
-					"parameters": {
-						"audio-file": "09-peach-beach-daisy-cruiser",
-						"loop": "not-looping",
-						"volume": "0",
-						"tag-optional": "\"\""
-					}
-				},
-				{
 					"id": "set-opacity",
 					"objectClass": "celebration",
 					"sid": 729424170492710,
 					"parameters": {
 						"opacity": "100"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration2",
+					"sid": 900849404405002,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "destroy",
+					"objectClass": "FindTheBanana",
+					"sid": 265518171774671
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "found",
+					"sid": 357453556501404,
+					"parameters": {
+						"opacity": "100"
+					}
+				},
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 106798427122123,
+					"parameters": {
+						"variable": "world_points",
+						"value": "1"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 402435717670402,
+					"parameters": {
+						"seconds": "3"
+					}
+				},
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 435399149041360,
+					"parameters": {
+						"layout": "\"Lvl\"&choose(1,2,3)"
+					}
+				},
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 516643217048100,
+					"parameters": {
+						"variable": "world_points",
+						"value": "1"
 					}
 				}
 			],
@@ -84,6 +138,66 @@
 				}
 			],
 			"sid": 395810465401237
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 799850314661854
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration",
+					"sid": 854589113176040,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 901449101029401,
+					"parameters": {
+						"audio-file": "09-peach-beach-daisy-cruiser",
+						"loop": "not-looping",
+						"volume": "-10",
+						"tag-optional": "\"\""
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "celebration2",
+					"sid": 902075962003814,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "found",
+					"sid": 936531183696948,
+					"parameters": {
+						"opacity": "0"
+					}
+				}
+			],
+			"sid": 289339436011265
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-tick",
+					"objectClass": "System",
+					"sid": 268130975466488
+				}
+			],
+			"actions": [],
+			"sid": 865171835613731
 		}
 	],
 	"sid": 215066707167941
