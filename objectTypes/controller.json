@@ -1,0 +1,10 @@
+{
+	"name": "Controller",
+	"plugin-id": "Mouse",
+	"sid": 225025460692209,
+	"singleglobal-inst": {
+		"type": "Controller",
+		"properties": {},
+		"uid": 7
+	}
+}

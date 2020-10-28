@@ -1,0 +1,49 @@
+{
+	"name": "bloody_mary",
+	"plugin-id": "Sprite",
+	"sid": 396657918353882,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1917,
+						"height": 1197,
+						"originX": 0.49921752738654146,
+						"originY": 0.5029239766081871,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6143415,
+						"collisionPoly": {
+							"points": [
+								0.0005216484089723526,
+								0.001670843776106934,
+								1,
+								0.001670843776106934,
+								1,
+								0.9991645781119465,
+								0.0005216484089723526,
+								0.9991645781119465
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 937102381415205,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
