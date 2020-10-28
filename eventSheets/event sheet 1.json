@@ -98,6 +98,11 @@
 						"variable": "world_points",
 						"value": "1"
 					}
+				},
+				{
+					"id": "stop-all",
+					"objectClass": "Audio",
+					"sid": 962486937817918
 				}
 			],
 			"sid": 375309757038791
@@ -122,7 +127,7 @@
 					"objectClass": "System",
 					"sid": 967024117490282,
 					"parameters": {
-						"layout": "LoseLayout"
+						"layout": "LoseLayout1"
 					}
 				},
 				{
@@ -135,6 +140,11 @@
 						"volume": "0",
 						"tag-optional": "\"\""
 					}
+				},
+				{
+					"id": "stop-all",
+					"objectClass": "Audio",
+					"sid": 995924461943221
 				}
 			],
 			"sid": 395810465401237
