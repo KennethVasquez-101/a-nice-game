@@ -35,9 +35,9 @@
 					}
 				},
 				{
-					"id": "set-init-opacity",
+					"id": "set-opacity",
 					"objectClass": "celebration2",
-					"sid": 292809486612831,
+					"sid": 900849404405002,
 					"parameters": {
 						"opacity": "100"
 					}
