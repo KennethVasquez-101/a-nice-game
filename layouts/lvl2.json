@@ -1,5 +1,5 @@
 {
-	"name": "Layout 1",
+	"name": "LVL2",
 	"layers": [
 		{
 			"name": "BG",
@@ -14,7 +14,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 2,
+					"uid": 16,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -35,7 +35,7 @@
 					}
 				}
 			],
-			"sid": 144253487663999,
+			"sid": 822224602118682,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -72,12 +72,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 3,
+					"uid": 17,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 446.3931423720471,
-						"y": 315.49191398572566,
+						"x": 249.1204150993196,
+						"y": 311.8555503493619,
 						"width": 75,
 						"height": 75,
 						"originX": 0.6532846715328468,
@@ -101,12 +101,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 4,
+					"uid": 18,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 238.57190298350486,
-						"y": 260,
+						"x": 426.75372116532316,
+						"y": 253.63636363636363,
 						"width": 130,
 						"height": 130,
 						"originX": 0.5002490245165462,
@@ -130,12 +130,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 5,
+					"uid": 19,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 438,
-						"y": 261,
+						"x": 237.09090909090884,
+						"y": 254.63636363636363,
 						"width": 130,
 						"height": 130,
 						"originX": 0.5002490245165462,
@@ -159,7 +159,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 6,
+					"uid": 20,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sine": {
@@ -203,7 +203,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 8,
+					"uid": 21,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -232,12 +232,12 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 9,
+					"uid": 22,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 625,
-						"y": 260,
+						"x": 620.4545454545455,
+						"y": 248.1818181818182,
 						"width": 130,
 						"height": 130,
 						"originX": 0.5002490245165462,
@@ -253,7 +253,7 @@
 					}
 				}
 			],
-			"sid": 494599605867520,
+			"sid": 196843402878508,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -306,7 +306,7 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
-					"uid": 10,
+					"uid": 23,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -351,7 +351,7 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
-					"uid": 13,
+					"uid": 24,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -396,7 +396,7 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
-					"uid": 14,
+					"uid": 25,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -441,7 +441,7 @@
 						"destroy-mode": "fade-to-invisible",
 						"timeout": 1
 					},
-					"uid": 15,
+					"uid": 26,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -462,7 +462,7 @@
 					}
 				}
 			],
-			"sid": 565164750487420,
+			"sid": 507588596956656,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -487,11 +487,11 @@
 			"global": false
 		}
 	],
-	"sid": 482840986155032,
+	"sid": 882136296542414,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
 	"height": 960,
 	"unboundedScrolling": false,
-	"eventSheet": "Event sheet 1"
+	"eventSheet": "Event sheet 2"
 }
