@@ -5,10 +5,33 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-	"usedAddons": [],
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r218",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Sin",
+			"name": "Sine",
+			"author": "Scirra",
+			"version": "r218",
+			"bundled": false
+		}
+	],
 	"uniqueId": "f5jmygw1j8e",
 	"objectTypes": {
-		"items": [],
+		"items": [
+			"BG",
+			"Banana",
+			"Wrong_Cup",
+			"Right_Cup",
+			"FindTheBanana"
+		],
 		"subfolders": []
 	},
 	"autosaveData": null,

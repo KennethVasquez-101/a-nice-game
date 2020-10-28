@@ -1,0 +1,37 @@
+{
+	"name": "Banana",
+	"plugin-id": "Sprite",
+	"sid": 469187151521963,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 274,
+						"height": 274,
+						"originX": 0.6532846715328468,
+						"originY": 0.7591240875912408,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8493949,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 825116599174123,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

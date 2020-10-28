@@ -1,0 +1,57 @@
+{
+	"name": "BG",
+	"plugin-id": "Sprite",
+	"sid": 575423266449445,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 480,
+						"height": 240,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "C:\\Users\\MoN3Y\\OneDrive\\Pictures\\Camera Roll\\nice_bg.png",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3212381,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.5,
+								0,
+								0.9979166666666667,
+								0,
+								0.9979166666666667,
+								0.5,
+								0.9979166666666667,
+								0.9958333333333333,
+								0.5,
+								0.9958333333333333,
+								0,
+								0.9958333333333333,
+								0,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 923371088109230,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

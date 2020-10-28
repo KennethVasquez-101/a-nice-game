@@ -1,0 +1,55 @@
+{
+	"name": "FindTheBanana",
+	"plugin-id": "Sprite",
+	"sid": 434582775288439,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Sin",
+			"name": "Sine",
+			"sid": 816448289011848
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 653,
+						"height": 65,
+						"originX": 0.48468606431852984,
+						"originY": 0.5230769230769231,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9167319,
+						"collisionPoly": {
+							"points": [
+								0.0015313935681470138,
+								0.015384615384615385,
+								0.9831546707503829,
+								0.015384615384615385,
+								0.9831546707503829,
+								0.9846153846153847,
+								0.0015313935681470138,
+								0.9846153846153847
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 338342345523152,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

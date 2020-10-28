@@ -1,0 +1,37 @@
+{
+	"name": "Wrong_Cup",
+	"plugin-id": "Sprite",
+	"sid": 539224920673767,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1182,
+						"height": 1182,
+						"originX": 0.5002490245165462,
+						"originY": 0.6030178708017523,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5872591,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 338184621453536,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
